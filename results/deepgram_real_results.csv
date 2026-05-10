@@ -1,0 +1,21 @@
+filename,locality,condition,model,hypothesis,reference,wer,cer,locality_detected,latency_sec
+01_koramangala_quiet_hindi.wav,Koramangala,quiet,deepgram-nova-2,हां भाई मैं एक कोरम मंगला में रहता हूं sector six के पास,haan bhai main koramangala mein rehta hoon sector six ke paas,1.3636,0.6885,0,9.51
+02_whitefield_quiet_english.wav,Whitefield,quiet,deepgram-nova-2,sir i stay in whitefield only near itpl,sir i stay in whitefield only near itpl,0.0,0.0,1,6.22
+03_marathahalli_quiet_hindi.wav,Marathahalli,quiet,deepgram-nova-2,वार्तलली ब्रिज के पास रहते,haan marathahalli bridge ke paas rehta hoon,1.4286,0.8605,0,4.38
+04_rajajinagar_quiet_hindi.wav,Rajajinagar,quiet,deepgram-nova-2,राजाजी नगर industrial area के पास मेरा घर है,rajajinagar industrial area ke paas mera ghar hai,1.375,0.5714,0,5.73
+05_yelahanka_quiet_hinglish.wav,Yelahanka,quiet,deepgram-nova-2,sir तेलंगाना new town में भी मेरा address,sir yelahanka new town mein hai mera address,1.0,0.4545,0,7.15
+06_hsr_layout_quiet_english.wav,HSR Layout,quiet,deepgram-nova-2,तेजसr layout sector two near vda complex,hsr layout sector two near bda complex,0.4286,0.1316,0,5.96
+07_majestic_quiet_hindi.wav,Majestic,quiet,deepgram-nova-2,मेजिस्टिट बस stand के पास वाला area गांधीनगर side,majestic bus stand ke paas wala area gandhinagar side,1.5556,0.6226,0,9.68
+08_bellandur_quiet_hinglish.wav,Bellandur,quiet,deepgram-nova-2,बेलन दूर lake road पर मेरा flat है,bellandur lake road pe mera flat hai,1.1429,0.5,0,6.48
+09_kr_puram_quiet_hindi.wav,KR Puram,quiet,deepgram-nova-2,प्यारपुरम railway station के पास वाला area में रहता हूं,kr puram railway station ke paas wala area mein rehta hoon,1.0909,0.5345,0,8.28
+10_indiranagar_noisy_hinglish.wav,Indiranagar,noisy,deepgram-nova-2,मेरा मेरा address इंदिरा नगर है hundred feet road के पास,mera address indiranagar hai hundred feet road ke paas,1.3333,0.5,0,6.11
+11_electronic_city_noisy_hindi.wav,Electronic City,noisy,deepgram-nova-2,electronics city phase one में काम करता हूं मैं,electronic city phase one mein kaam karta hoon main,0.7778,0.4314,0,5.57
+12_hebbal_noisy_hindi.wav,Hebbal,noisy,deepgram-nova-2,apple flyover के पास रहता हूं sir,hebbal flyover ke paas rehta hoon sir,0.8571,0.5676,0,5.73
+13_btm_layout_noisy_hinglish.wav,BTM Layout,noisy,deepgram-nova-2,btm layout में second stage,btm layout mein hoon main second stage,0.4286,0.3684,1,8.93
+14_silk_board_noisy_hindi.wav,Silk Board,noisy,deepgram-nova-2,एक board जंक्शन के पास रहता हूं traffic बहुत है यहां,silk board junction ke paas rehta hoon traffic bahut hai yahan,1.1818,0.6452,0,11.33
+15_bommanahalli_noisy_hindi.wav,Bommanahalli,noisy,deepgram-nova-2,बोमनहल्ले में हूं like ओसु road पर,bommanahalli mein hoon hosur road pe,1.3333,0.75,0,7.36
+16_peenya_noisy_hindi.wav,Peenya,noisy,deepgram-nova-2,ab में या industrial area में काम करता हूं second stage,peenya industrial area mein kaam karta hoon peenya second stage,0.8,0.4603,0,8.88
+17_btm_layout_noisy_fast.wav,BTM Layout,noisy,deepgram-nova-2,paytm layout में हूं मैं second stage,btm layout mein hoon main second stage,0.5714,0.3947,0,6.22
+18_jayanagar_rushed_hindi.wav,Jayanagar,rushed,deepgram-nova-2,जयनगर short block में रहता हो,main jayanagar fourth block mein rahta hoon,0.8571,0.7209,0,5.28
+19_banashankari_rushed_hindi.wav,Banashankari,rushed,deepgram-nova-2,शंकर भी second stage में रहती हूं मैं,banashankari second stage mein rehti hoon main,1.0,0.6304,0,3.72
+20_yeshwanthpur_rushed_hindi.wav,Yeshwanthpur,rushed,deepgram-nova-2,circle के पास,yeshwanthpur mein hoon sir circle ke paas,1.0,0.8049,0,3.01

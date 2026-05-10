@@ -1,0 +1,121 @@
+model,locality,condition,locality_detected,wer,latency_sec
+"Deepgram Nova-2
+(REAL)",Koramangala,quiet,1,1.3636,9.51
+"Deepgram Nova-2
+(REAL)",Whitefield,quiet,1,0.0,6.22
+"Deepgram Nova-2
+(REAL)",Marathahalli,quiet,1,1.4286,4.38
+"Deepgram Nova-2
+(REAL)",Rajajinagar,quiet,1,1.375,5.73
+"Deepgram Nova-2
+(REAL)",Yelahanka,quiet,1,1.0,7.15
+"Deepgram Nova-2
+(REAL)",HSR Layout,quiet,0,0.4286,5.96
+"Deepgram Nova-2
+(REAL)",Majestic,quiet,1,1.5556,9.68
+"Deepgram Nova-2
+(REAL)",Bellandur,quiet,1,1.1429,6.48
+"Deepgram Nova-2
+(REAL)",KR Puram,quiet,1,1.0909,8.28
+"Deepgram Nova-2
+(REAL)",Indiranagar,noisy,1,1.3333,6.11
+"Deepgram Nova-2
+(REAL)",Electronic City,noisy,1,0.7778,5.57
+"Deepgram Nova-2
+(REAL)",Hebbal,noisy,0,0.8571,5.73
+"Deepgram Nova-2
+(REAL)",BTM Layout,noisy,1,0.4286,8.93
+"Deepgram Nova-2
+(REAL)",Silk Board,noisy,1,1.1818,11.33
+"Deepgram Nova-2
+(REAL)",Bommanahalli,noisy,1,1.3333,7.36
+"Deepgram Nova-2
+(REAL)",Peenya,noisy,1,0.8,8.88
+"Deepgram Nova-2
+(REAL)",BTM Layout,noisy,0,0.5714,6.22
+"Deepgram Nova-2
+(REAL)",Jayanagar,rushed,1,0.8571,5.28
+"Deepgram Nova-2
+(REAL)",Banashankari,rushed,1,1.0,3.72
+"Deepgram Nova-2
+(REAL)",Yeshwanthpur,rushed,0,1.0,3.01
+"Whisper large-v3
+(simulated)",Koramangala,quiet,1,0.05,4.249080237694725
+"Google STT v2
+(simulated)",Koramangala,quiet,1,0.08,1.0894823157779034
+"Whisper large-v3
+(simulated)",Whitefield,quiet,1,0.0,5.401428612819832
+"Google STT v2
+(simulated)",Whitefield,quiet,1,0.0,0.7115950885216334
+"Whisper large-v3
+(simulated)",Marathahalli,quiet,1,0.08,4.96398788362281
+"Google STT v2
+(simulated)",Marathahalli,quiet,1,0.1,0.8337157188281745
+"Whisper large-v3
+(simulated)",Rajajinagar,quiet,1,0.12,4.697316968394073
+"Google STT v2
+(simulated)",Rajajinagar,quiet,1,0.14,0.8930894746349534
+"Whisper large-v3
+(simulated)",Yelahanka,quiet,1,0.06,3.812037280884873
+"Google STT v2
+(simulated)",Yelahanka,quiet,1,0.08,0.9648559873736287
+"Whisper large-v3
+(simulated)",HSR Layout,quiet,1,0.0,3.8119890406724055
+"Google STT v2
+(simulated)",HSR Layout,quiet,1,0.0,1.2281407691144108
+"Whisper large-v3
+(simulated)",Majestic,quiet,1,0.1,3.616167224336399
+"Google STT v2
+(simulated)",Majestic,quiet,1,0.12,0.7597390257266877
+"Whisper large-v3
+(simulated)",Bellandur,quiet,1,0.07,5.23235229154987
+"Google STT v2
+(simulated)",Bellandur,quiet,1,0.09,1.0113875507308892
+"Whisper large-v3
+(simulated)",KR Puram,quiet,1,0.09,4.702230023486417
+"Google STT v2
+(simulated)",KR Puram,quiet,1,0.1,1.0739316550896338
+"Whisper large-v3
+(simulated)",Indiranagar,noisy,1,0.08,4.9161451555920905
+"Google STT v2
+(simulated)",Indiranagar,noisy,1,0.1,0.6371603301759982
+"Whisper large-v3
+(simulated)",Electronic City,noisy,1,0.11,3.541168988591605
+"Google STT v2
+(simulated)",Electronic City,noisy,1,0.12,1.0860358815211506
+"Whisper large-v3
+(simulated)",Hebbal,noisy,1,0.14,5.439819704323988
+"Google STT v2
+(simulated)",Hebbal,noisy,0,0.8,0.7364192989498332
+"Whisper large-v3
+(simulated)",BTM Layout,noisy,1,0.05,5.164885281600844
+"Google STT v2
+(simulated)",BTM Layout,noisy,1,0.06,0.6520412743882236
+"Whisper large-v3
+(simulated)",Silk Board,noisy,1,0.12,3.9246782213565523
+"Google STT v2
+(simulated)",Silk Board,noisy,1,0.14,1.3591084298026666
+"Whisper large-v3
+(simulated)",Bommanahalli,noisy,1,0.15,3.8636499344142012
+"Google STT v2
+(simulated)",Bommanahalli,noisy,1,0.18,1.3725056264596474
+"Whisper large-v3
+(simulated)",Peenya,noisy,1,0.1,3.8668090197068676
+"Google STT v2
+(simulated)",Peenya,noisy,1,0.12,1.2467178784931687
+"Whisper large-v3
+(simulated)",BTM Layout,noisy,1,0.08,4.1084844859190754
+"Google STT v2
+(simulated)",BTM Layout,noisy,1,0.1,0.8436910153386965
+"Whisper large-v3
+(simulated)",Jayanagar,rushed,1,0.2,4.549512863264476
+"Google STT v2
+(simulated)",Jayanagar,rushed,1,0.22,0.678137691205107
+"Whisper large-v3
+(simulated)",Banashankari,rushed,1,0.22,4.363890037284231
+"Google STT v2
+(simulated)",Banashankari,rushed,0,0.85,1.1473864212097253
+"Whisper large-v3
+(simulated)",Yeshwanthpur,rushed,1,0.18,4.082458280396084
+"Google STT v2
+(simulated)",Yeshwanthpur,rushed,1,0.2,0.952121994991681

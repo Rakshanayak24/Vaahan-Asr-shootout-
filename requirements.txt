@@ -1,0 +1,12 @@
+openai-whisper>=20231117
+faster-whisper>=0.10.0
+deepgram-sdk>=3.0.0
+SpeechRecognition>=3.10.0
+pydub>=0.25.1
+jiwer>=3.0.3
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.11.0
+requests>=2.31.0

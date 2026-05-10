@@ -1,0 +1,182 @@
+[
+  {
+    "filename": "01_koramangala_quiet_hindi.wav",
+    "locality": "Koramangala",
+    "sentence": "Haan bhai main Koramangala mein rehta hoon sector six ke paas",
+    "language": "hi",
+    "condition": "quiet",
+    "duration_sec": 7.04,
+    "reference_transcript": "Haan bhai main Koramangala mein rehta hoon sector six ke paas"
+  },
+  {
+    "filename": "02_whitefield_quiet_english.wav",
+    "locality": "Whitefield",
+    "sentence": "Sir I stay in Whitefield only near ITPL",
+    "language": "en",
+    "condition": "quiet",
+    "duration_sec": 4.52,
+    "reference_transcript": "Sir I stay in Whitefield only near ITPL"
+  },
+  {
+    "filename": "03_marathahalli_quiet_hindi.wav",
+    "locality": "Marathahalli",
+    "sentence": "Haan Marathahalli bridge ke paas rehta hoon",
+    "language": "hi",
+    "condition": "quiet",
+    "duration_sec": 3.31,
+    "reference_transcript": "Haan Marathahalli bridge ke paas rehta hoon"
+  },
+  {
+    "filename": "04_rajajinagar_quiet_hindi.wav",
+    "locality": "Rajajinagar",
+    "sentence": "Rajajinagar industrial area ke paas mera ghar hai",
+    "language": "hi",
+    "condition": "quiet",
+    "duration_sec": 4.29,
+    "reference_transcript": "Rajajinagar industrial area ke paas mera ghar hai"
+  },
+  {
+    "filename": "05_yelahanka_quiet_hinglish.wav",
+    "locality": "Yelahanka",
+    "sentence": "Sir Yelahanka new town mein hai mera address",
+    "language": "hi",
+    "condition": "quiet",
+    "duration_sec": 3.65,
+    "reference_transcript": "Sir Yelahanka new town mein hai mera address"
+  },
+  {
+    "filename": "06_hsr_layout_quiet_english.wav",
+    "locality": "HSR Layout",
+    "sentence": "HSR Layout sector two near BDA complex",
+    "language": "en",
+    "condition": "quiet",
+    "duration_sec": 4.07,
+    "reference_transcript": "HSR Layout sector two near BDA complex"
+  },
+  {
+    "filename": "07_majestic_quiet_hindi.wav",
+    "locality": "Majestic",
+    "sentence": "Majestic bus stand ke paas wala area Gandhinagar side",
+    "language": "hi",
+    "condition": "quiet",
+    "duration_sec": 4.89,
+    "reference_transcript": "Majestic bus stand ke paas wala area Gandhinagar side"
+  },
+  {
+    "filename": "08_bellandur_quiet_hinglish.wav",
+    "locality": "Bellandur",
+    "sentence": "Bellandur lake road pe mera flat hai",
+    "language": "hi",
+    "condition": "quiet",
+    "duration_sec": 3.93,
+    "reference_transcript": "Bellandur lake road pe mera flat hai"
+  },
+  {
+    "filename": "09_kr_puram_quiet_hindi.wav",
+    "locality": "KR Puram",
+    "sentence": "KR Puram railway station ke paas wala area mein rehta hoon",
+    "language": "hi",
+    "condition": "quiet",
+    "duration_sec": 4.69,
+    "reference_transcript": "KR Puram railway station ke paas wala area mein rehta hoon"
+  },
+  {
+    "filename": "10_indiranagar_noisy_hinglish.wav",
+    "locality": "Indiranagar",
+    "sentence": "Mera address Indiranagar hai hundred feet road ke paas",
+    "language": "hi",
+    "condition": "noisy",
+    "duration_sec": 6.14,
+    "reference_transcript": "Mera address Indiranagar hai hundred feet road ke paas"
+  },
+  {
+    "filename": "11_electronic_city_noisy_hindi.wav",
+    "locality": "Electronic City",
+    "sentence": "Electronic City phase one mein kaam karta hoon main",
+    "language": "hi",
+    "condition": "noisy",
+    "duration_sec": 7.19,
+    "reference_transcript": "Electronic City phase one mein kaam karta hoon main"
+  },
+  {
+    "filename": "12_hebbal_noisy_hindi.wav",
+    "locality": "Hebbal",
+    "sentence": "Hebbal flyover ke paas rehta hoon sir",
+    "language": "hi",
+    "condition": "noisy",
+    "duration_sec": 4.33,
+    "reference_transcript": "Hebbal flyover ke paas rehta hoon sir"
+  },
+  {
+    "filename": "13_btm_layout_noisy_hinglish.wav",
+    "locality": "BTM Layout",
+    "sentence": "BTM Layout mein hoon main second stage",
+    "language": "hi",
+    "condition": "noisy",
+    "duration_sec": 4.74,
+    "reference_transcript": "BTM Layout mein hoon main second stage"
+  },
+  {
+    "filename": "14_silk_board_noisy_hindi.wav",
+    "locality": "Silk Board",
+    "sentence": "Silk Board junction ke paas rehta hoon traffic bahut hai yahan",
+    "language": "hi",
+    "condition": "noisy",
+    "duration_sec": 5.99,
+    "reference_transcript": "Silk Board junction ke paas rehta hoon traffic bahut hai yahan"
+  },
+  {
+    "filename": "15_bommanahalli_noisy_hindi.wav",
+    "locality": "Bommanahalli",
+    "sentence": "Bommanahalli mein hoon Hosur road pe",
+    "language": "hi",
+    "condition": "noisy",
+    "duration_sec": 4.54,
+    "reference_transcript": "Bommanahalli mein hoon Hosur road pe"
+  },
+  {
+    "filename": "16_peenya_noisy_hindi.wav",
+    "locality": "Peenya",
+    "sentence": "Peenya industrial area mein kaam karta hoon Peenya second stage",
+    "language": "hi",
+    "condition": "noisy",
+    "duration_sec": 6.04,
+    "reference_transcript": "Peenya industrial area mein kaam karta hoon Peenya second stage"
+  },
+  {
+    "filename": "17_btm_layout_noisy_fast.wav",
+    "locality": "BTM Layout",
+    "sentence": "BTM Layout mein hoon main second stage",
+    "language": "hi",
+    "condition": "noisy",
+    "duration_sec": 4.84,
+    "reference_transcript": "BTM Layout mein hoon main second stage"
+  },
+  {
+    "filename": "18_jayanagar_rushed_hindi.wav",
+    "locality": "Jayanagar",
+    "sentence": "Main Jayanagar fourth block mein rahta hoon",
+    "language": "hi",
+    "condition": "rushed",
+    "duration_sec": 3.46,
+    "reference_transcript": "Main Jayanagar fourth block mein rahta hoon"
+  },
+  {
+    "filename": "19_banashankari_rushed_hindi.wav",
+    "locality": "Banashankari",
+    "sentence": "Banashankari second stage mein rehti hoon main",
+    "language": "hi",
+    "condition": "rushed",
+    "duration_sec": 3.48,
+    "reference_transcript": "Banashankari second stage mein rehti hoon main"
+  },
+  {
+    "filename": "20_yeshwanthpur_rushed_hindi.wav",
+    "locality": "Yeshwanthpur",
+    "sentence": "Yeshwanthpur mein hoon sir circle ke paas",
+    "language": "hi",
+    "condition": "rushed",
+    "duration_sec": 2.84,
+    "reference_transcript": "Yeshwanthpur mein hoon sir circle ke paas"
+  }
+]

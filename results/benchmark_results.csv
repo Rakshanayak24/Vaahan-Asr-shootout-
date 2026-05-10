@@ -1,0 +1,81 @@
+model,filename,locality,condition,language,wer,cer,locality_detected,latency_sec,reference,hypothesis
+Deepgram Nova-2,01_koramangala_quiet_hindi.wav,Koramangala,quiet,hi,0.0,0.0,1,0.581,haan bhai main koramangala mein rehta hoon sector six ke paas,haan bhai main koramangala mein rehta hoon sector six ke paas
+Deepgram Nova-2,02_whitefield_quiet_english.wav,Whitefield,quiet,en,0.0,0.0,1,0.688,sir i stay in whitefield only near itpl,sir i stay in whitefield only near itpl
+Deepgram Nova-2,03_marathahalli_quiet_hindi.wav,Marathahalli,quiet,hi,0.0,0.0,1,0.569,haan marathahalli bridge ke paas rehta hoon,haan marathahalli bridge ke paas rehta hoon
+Deepgram Nova-2,04_rajajinagar_quiet_hindi.wav,Rajajinagar,quiet,hi,0.0,0.0,1,0.797,rajajinagar industrial area ke paas mera ghar hai,rajajinagar industrial area ke paas mera ghar hai
+Deepgram Nova-2,05_yelahanka_quiet_hinglish.wav,Yelahanka,quiet,hi,0.0,0.0,1,0.455,sir yelahanka new town mein hai mera address,sir yelahanka new town mein hai mera address
+Deepgram Nova-2,06_hsr_layout_quiet_english.wav,HSR Layout,quiet,en,0.0,0.0,1,0.727,hsr layout sector two near bda complex,hsr layout sector two near bda complex
+Deepgram Nova-2,07_majestic_quiet_hindi.wav,Majestic,quiet,hi,0.0,0.0,1,0.397,majestic bus stand ke paas wala area gandhinagar side,majestic bus stand ke paas wala area gandhinagar side
+Deepgram Nova-2,08_bellandur_quiet_hinglish.wav,Bellandur,quiet,hi,0.0,0.0,1,0.507,bellandur lake road pe mera flat hai,bellandur lake road pe mera flat hai
+Deepgram Nova-2,09_kr_puram_quiet_hindi.wav,KR Puram,quiet,hi,0.0,0.0,1,0.491,kr puram railway station ke paas wala area mein rehta hoon,kr puram railway station ke paas wala area mein rehta hoon
+Deepgram Nova-2,10_indiranagar_noisy_hinglish.wav,Indiranagar,noisy,hi,0.0,0.0,1,0.511,mera address indiranagar hai hundred feet road ke paas,mera address indiranagar hai hundred feet road ke paas
+Deepgram Nova-2,11_electronic_city_noisy_hindi.wav,Electronic City,noisy,hi,0.1111,0.098,1,0.473,electronic city phase one mein kaam karta hoon main,electronic city phase one mein kaam karta hoon
+Deepgram Nova-2,12_hebbal_noisy_hindi.wav,Hebbal,noisy,hi,0.0,0.0,1,0.715,hebbal flyover ke paas rehta hoon sir,hebbal flyover ke paas rehta hoon sir
+Deepgram Nova-2,13_btm_layout_noisy_hinglish.wav,BTM Layout,noisy,hi,0.0,0.0,1,0.655,btm layout mein hoon main second stage,btm layout mein hoon main second stage
+Deepgram Nova-2,14_silk_board_noisy_hindi.wav,Silk Board,noisy,hi,0.0909,0.0968,1,0.413,silk board junction ke paas rehta hoon traffic bahut hai yahan,silk board junction ke paas rehta hoon traffic bahut hai
+Deepgram Nova-2,15_bommanahalli_noisy_hindi.wav,Bommanahalli,noisy,hi,0.3333,0.0278,1,0.536,bommanahalli mein hoon hosur road pe,bommana halli mein hoon hosur road pe
+Deepgram Nova-2,16_peenya_noisy_hindi.wav,Peenya,noisy,hi,0.0,0.0,1,0.713,peenya industrial area mein kaam karta hoon peenya second stage,peenya industrial area mein kaam karta hoon peenya second stage
+Deepgram Nova-2,17_btm_layout_noisy_fast.wav,BTM Layout,noisy,hi,0.8571,0.6316,0,0.647,btm layout mein hoon main second stage,yeshwantpur mein hoon sir circle ke paas
+Deepgram Nova-2,18_jayanagar_rushed_hindi.wav,Jayanagar,rushed,hi,0.1429,0.0233,1,0.409,main jayanagar fourth block mein rahta hoon,main jaynagar fourth block mein rahta hoon
+Deepgram Nova-2,19_banashankari_rushed_hindi.wav,Banashankari,rushed,hi,0.1429,0.0217,1,0.672,banashankari second stage mein rehti hoon main,banashankar second stage mein rehti hoon main
+Deepgram Nova-2,20_yeshwanthpur_rushed_hindi.wav,Yeshwanthpur,rushed,hi,1.0,1.0,0,0.411,yeshwanthpur mein hoon sir circle ke paas,
+Whisper large-v3,01_koramangala_quiet_hindi.wav,Koramangala,quiet,hi,0.0909,0.0164,1,5.476,haan bhai main koramangala mein rehta hoon sector six ke paas,han bhai main koramangala mein rehta hoon sector six ke paas
+Whisper large-v3,02_whitefield_quiet_english.wav,Whitefield,quiet,en,0.0,0.0,1,4.421,sir i stay in whitefield only near itpl,sir i stay in whitefield only near itpl
+Whisper large-v3,03_marathahalli_quiet_hindi.wav,Marathahalli,quiet,hi,0.0,0.0,1,2.944,haan marathahalli bridge ke paas rehta hoon,haan marathahalli bridge ke paas rehta hoon
+Whisper large-v3,04_rajajinagar_quiet_hindi.wav,Rajajinagar,quiet,hi,0.0,0.0,1,2.512,rajajinagar industrial area ke paas mera ghar hai,rajajinagar industrial area ke paas mera ghar hai
+Whisper large-v3,05_yelahanka_quiet_hinglish.wav,Yelahanka,quiet,hi,0.0,0.0,1,3.133,sir yelahanka new town mein hai mera address,sir yelahanka new town mein hai mera address
+Whisper large-v3,06_hsr_layout_quiet_english.wav,HSR Layout,quiet,en,0.0,0.0,1,3.603,hsr layout sector two near bda complex,hsr layout sector two near bda complex
+Whisper large-v3,07_majestic_quiet_hindi.wav,Majestic,quiet,hi,0.0,0.0,1,3.738,majestic bus stand ke paas wala area gandhinagar side,majestic bus stand ke paas wala area gandhinagar side
+Whisper large-v3,08_bellandur_quiet_hinglish.wav,Bellandur,quiet,hi,0.0,0.0,1,2.533,bellandur lake road pe mera flat hai,bellandur lake road pe mera flat hai
+Whisper large-v3,09_kr_puram_quiet_hindi.wav,KR Puram,quiet,hi,0.0,0.0,1,4.285,kr puram railway station ke paas wala area mein rehta hoon,kr puram railway station ke paas wala area mein rehta hoon
+Whisper large-v3,10_indiranagar_noisy_hinglish.wav,Indiranagar,noisy,hi,0.0,0.0,1,3.125,mera address indiranagar hai hundred feet road ke paas,mera address indiranagar hai hundred feet road ke paas
+Whisper large-v3,11_electronic_city_noisy_hindi.wav,Electronic City,noisy,hi,0.0,0.0,1,2.748,electronic city phase one mein kaam karta hoon main,electronic city phase one mein kaam karta hoon main
+Whisper large-v3,12_hebbal_noisy_hindi.wav,Hebbal,noisy,hi,0.0,0.0,1,5.02,hebbal flyover ke paas rehta hoon sir,hebbal flyover ke paas rehta hoon sir
+Whisper large-v3,13_btm_layout_noisy_hinglish.wav,BTM Layout,noisy,hi,0.0,0.0,1,3.156,btm layout mein hoon main second stage,btm layout mein hoon main second stage
+Whisper large-v3,14_silk_board_noisy_hindi.wav,Silk Board,noisy,hi,0.0,0.0,1,2.748,silk board junction ke paas rehta hoon traffic bahut hai yahan,silk board junction ke paas rehta hoon traffic bahut hai yahan
+Whisper large-v3,15_bommanahalli_noisy_hindi.wav,Bommanahalli,noisy,hi,0.0,0.0,1,3.607,bommanahalli mein hoon hosur road pe,bommanahalli mein hoon hosur road pe
+Whisper large-v3,16_peenya_noisy_hindi.wav,Peenya,noisy,hi,0.0,0.0,1,3.974,peenya industrial area mein kaam karta hoon peenya second stage,peenya industrial area mein kaam karta hoon peenya second stage
+Whisper large-v3,17_btm_layout_noisy_fast.wav,BTM Layout,noisy,hi,0.8571,0.6579,0,4.962,btm layout mein hoon main second stage,yeshwanthpur mein hoon sir circle ke paas
+Whisper large-v3,18_jayanagar_rushed_hindi.wav,Jayanagar,rushed,hi,0.0,0.0,1,4.089,main jayanagar fourth block mein rahta hoon,main jayanagar fourth block mein rahta hoon
+Whisper large-v3,19_banashankari_rushed_hindi.wav,Banashankari,rushed,hi,0.0,0.0,1,3.539,banashankari second stage mein rehti hoon main,banashankari second stage mein rehti hoon main
+Whisper large-v3,20_yeshwanthpur_rushed_hindi.wav,Yeshwanthpur,rushed,hi,1.0,1.0,0,3.425,yeshwanthpur mein hoon sir circle ke paas,
+Google STT v2,01_koramangala_quiet_hindi.wav,Koramangala,quiet,hi,0.0,0.0,1,0.501,haan bhai main koramangala mein rehta hoon sector six ke paas,haan bhai main koramangala mein rehta hoon sector six ke paas
+Google STT v2,02_whitefield_quiet_english.wav,Whitefield,quiet,en,0.0,0.0,1,0.91,sir i stay in whitefield only near itpl,sir i stay in whitefield only near itpl
+Google STT v2,03_marathahalli_quiet_hindi.wav,Marathahalli,quiet,hi,0.0,0.0,1,1.136,haan marathahalli bridge ke paas rehta hoon,haan marathahalli bridge ke paas rehta hoon
+Google STT v2,04_rajajinagar_quiet_hindi.wav,Rajajinagar,quiet,hi,0.0,0.0,1,1.054,rajajinagar industrial area ke paas mera ghar hai,rajajinagar industrial area ke paas mera ghar hai
+Google STT v2,05_yelahanka_quiet_hinglish.wav,Yelahanka,quiet,hi,0.0,0.0,1,0.97,sir yelahanka new town mein hai mera address,sir yelahanka new town mein hai mera address
+Google STT v2,06_hsr_layout_quiet_english.wav,HSR Layout,quiet,en,0.1429,0.0789,1,1.14,hsr layout sector two near bda complex,hsr layout sector 2 near bda complex
+Google STT v2,07_majestic_quiet_hindi.wav,Majestic,quiet,hi,0.0,0.0,1,1.195,majestic bus stand ke paas wala area gandhinagar side,majestic bus stand ke paas wala area gandhinagar side
+Google STT v2,08_bellandur_quiet_hinglish.wav,Bellandur,quiet,hi,0.0,0.0,1,1.062,bellandur lake road pe mera flat hai,bellandur lake road pe mera flat hai
+Google STT v2,09_kr_puram_quiet_hindi.wav,KR Puram,quiet,hi,0.0,0.0,1,0.558,kr puram railway station ke paas wala area mein rehta hoon,kr puram railway station ke paas wala area mein rehta hoon
+Google STT v2,10_indiranagar_noisy_hinglish.wav,Indiranagar,noisy,hi,0.2222,0.0185,1,1.1,mera address indiranagar hai hundred feet road ke paas,mera address indira nagar hai hundred feet road ke paas
+Google STT v2,11_electronic_city_noisy_hindi.wav,Electronic City,noisy,hi,0.0,0.0,1,0.627,electronic city phase one mein kaam karta hoon main,electronic city phase one mein kaam karta hoon main
+Google STT v2,12_hebbal_noisy_hindi.wav,Hebbal,noisy,hi,0.1429,0.1081,1,1.092,hebbal flyover ke paas rehta hoon sir,hebbal flyover ke paas rehta hoon
+Google STT v2,13_btm_layout_noisy_hinglish.wav,BTM Layout,noisy,hi,0.0,0.0,1,0.924,btm layout mein hoon main second stage,btm layout mein hoon main second stage
+Google STT v2,14_silk_board_noisy_hindi.wav,Silk Board,noisy,hi,0.0,0.0,1,1.049,silk board junction ke paas rehta hoon traffic bahut hai yahan,silk board junction ke paas rehta hoon traffic bahut hai yahan
+Google STT v2,15_bommanahalli_noisy_hindi.wav,Bommanahalli,noisy,hi,0.0,0.0,1,0.682,bommanahalli mein hoon hosur road pe,bommanahalli mein hoon hosur road pe
+Google STT v2,16_peenya_noisy_hindi.wav,Peenya,noisy,hi,0.0,0.0,1,0.849,peenya industrial area mein kaam karta hoon peenya second stage,peenya industrial area mein kaam karta hoon peenya second stage
+Google STT v2,17_btm_layout_noisy_fast.wav,BTM Layout,noisy,hi,0.8571,0.6579,0,0.691,btm layout mein hoon main second stage,yashwanthpur mein hoon sir circle ke paas
+Google STT v2,18_jayanagar_rushed_hindi.wav,Jayanagar,rushed,hi,0.0,0.0,1,0.896,main jayanagar fourth block mein rahta hoon,main jayanagar fourth block mein rahta hoon
+Google STT v2,19_banashankari_rushed_hindi.wav,Banashankari,rushed,hi,0.0,0.0,1,0.687,banashankari second stage mein rehti hoon main,banashankari second stage mein rehti hoon main
+Google STT v2,20_yeshwanthpur_rushed_hindi.wav,Yeshwanthpur,rushed,hi,1.0,1.0,0,0.998,yeshwanthpur mein hoon sir circle ke paas,
+IndicWav2Vec,01_koramangala_quiet_hindi.wav,Koramangala,quiet,hi,0.0909,0.0656,1,2.551,haan bhai main koramangala mein rehta hoon sector six ke paas,haan bhai main koramangala mein rehta hoon sector chhe ke paas
+IndicWav2Vec,02_whitefield_quiet_english.wav,Whitefield,quiet,en,0.25,0.0256,1,1.309,sir i stay in whitefield only near itpl,sir i stay in white field only near itpl
+IndicWav2Vec,03_marathahalli_quiet_hindi.wav,Marathahalli,quiet,hi,0.0,0.0,1,2.776,haan marathahalli bridge ke paas rehta hoon,haan marathahalli bridge ke paas rehta hoon
+IndicWav2Vec,04_rajajinagar_quiet_hindi.wav,Rajajinagar,quiet,hi,0.0,0.0,1,2.535,rajajinagar industrial area ke paas mera ghar hai,rajajinagar industrial area ke paas mera ghar hai
+IndicWav2Vec,05_yelahanka_quiet_hinglish.wav,Yelahanka,quiet,hi,0.0,0.0,1,1.826,sir yelahanka new town mein hai mera address,sir yelahanka new town mein hai mera address
+IndicWav2Vec,06_hsr_layout_quiet_english.wav,HSR Layout,quiet,en,0.1429,0.0526,1,2.035,hsr layout sector two near bda complex,hsr layout sector do near bda complex
+IndicWav2Vec,07_majestic_quiet_hindi.wav,Majestic,quiet,hi,0.1111,0.0189,1,1.325,majestic bus stand ke paas wala area gandhinagar side,majestic bas stand ke paas wala area gandhinagar side
+IndicWav2Vec,08_bellandur_quiet_hinglish.wav,Bellandur,quiet,hi,0.0,0.0,1,2.875,bellandur lake road pe mera flat hai,bellandur lake road pe mera flat hai
+IndicWav2Vec,09_kr_puram_quiet_hindi.wav,KR Puram,quiet,hi,0.0,0.0,1,1.446,kr puram railway station ke paas wala area mein rehta hoon,kr puram railway station ke paas wala area mein rehta hoon
+IndicWav2Vec,10_indiranagar_noisy_hinglish.wav,Indiranagar,noisy,hi,0.3333,0.1667,1,2.723,mera address indiranagar hai hundred feet road ke paas,mera address indiranagar hai ek sau foot road ke paas
+IndicWav2Vec,11_electronic_city_noisy_hindi.wav,Electronic City,noisy,hi,0.2222,0.0784,0,2.469,electronic city phase one mein kaam karta hoon main,ilectronic city phase ek mein kaam karta hoon main
+IndicWav2Vec,12_hebbal_noisy_hindi.wav,Hebbal,noisy,hi,0.1429,0.1351,1,2.544,hebbal flyover ke paas rehta hoon sir,hebbal flyover ke paas rehta sir
+IndicWav2Vec,13_btm_layout_noisy_hinglish.wav,BTM Layout,noisy,hi,0.0,0.0,1,1.393,btm layout mein hoon main second stage,btm layout mein hoon main second stage
+IndicWav2Vec,14_silk_board_noisy_hindi.wav,Silk Board,noisy,hi,0.0,0.0,1,1.876,silk board junction ke paas rehta hoon traffic bahut hai yahan,silk board junction ke paas rehta hoon traffic bahut hai yahan
+IndicWav2Vec,15_bommanahalli_noisy_hindi.wav,Bommanahalli,noisy,hi,0.1667,0.1389,1,2.747,bommanahalli mein hoon hosur road pe,bommanahalli mein hosur road pe
+IndicWav2Vec,16_peenya_noisy_hindi.wav,Peenya,noisy,hi,0.0,0.0,1,2.407,peenya industrial area mein kaam karta hoon peenya second stage,peenya industrial area mein kaam karta hoon peenya second stage
+IndicWav2Vec,17_btm_layout_noisy_fast.wav,BTM Layout,noisy,hi,0.8571,0.6579,0,1.846,btm layout mein hoon main second stage,yeshwanthpur mein hoon sir circle ke paas
+IndicWav2Vec,18_jayanagar_rushed_hindi.wav,Jayanagar,rushed,hi,0.0,0.0,1,1.533,main jayanagar fourth block mein rahta hoon,main jayanagar fourth block mein rahta hoon
+IndicWav2Vec,19_banashankari_rushed_hindi.wav,Banashankari,rushed,hi,0.1429,0.1087,1,1.437,banashankari second stage mein rehti hoon main,banashankari second stage mein rehti hoon
+IndicWav2Vec,20_yeshwanthpur_rushed_hindi.wav,Yeshwanthpur,rushed,hi,1.0,1.0,0,2.032,yeshwanthpur mein hoon sir circle ke paas,
